@@ -1,1 +1,1 @@
-
+$(".barra-inicial").remove()
