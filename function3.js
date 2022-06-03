@@ -9,5 +9,5 @@ if (modulo_tarja_texto) {
     cab = $("#cabecalho")
     tarja_text = []
     tarja_text = modulo_tarja_texto.split(modulo_cupom)
-    cab.prepend('<div class="modulo_tarja"><i class="icon-lua"></i>' + tarja_text[0] + '<span> ' + modulo_cupom + ' </span>' + tarja_text[1] + '<i class="icon-pipa"></i></div>');
+    cab.prepend('<div class="modulo_tarja"><i class="icon-lua"></i>' + tarja_text[0] + '<span>' + modulo_cupom + '</span>' + tarja_text[1] + '<i class="icon-pipa"></i></div>');
 }
