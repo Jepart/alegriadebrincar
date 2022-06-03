@@ -1,0 +1,15 @@
+#cabecalho {
+    background: #fff;
+}
+
+.modulo_tarja {
+    background: #F1564D;
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+.modulo_tarja span {
+    font-weight: 600;
+}
